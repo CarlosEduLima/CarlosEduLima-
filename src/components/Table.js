@@ -40,7 +40,7 @@ const useStyles = makeStyles(theme => ({
     },
     title: {
         padding: theme.spacing(1),
-        fontSize: 20,
+        fontSize: 16,
         fontWeight: 'bold',
         fontColor: "#2f4f4f",
     }

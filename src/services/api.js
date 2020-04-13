@@ -4,8 +4,8 @@ const api = axios.create({
   baseURL:'https://coronavirus-monitor.p.rapidapi.com/coronavirus',
   json: true,
   headers:{
-      'x-rapidapi-host': 'your api key',
-      'x-rapidapi-key': 'your api key'
+      'x-rapidapi-host': 'coronavirus-monitor.p.rapidapi.com',
+      'x-rapidapi-key': '1615fcb04fmsh261b92a0f747b9fp1bfa30jsn59296fb8a715'
   }
 });
 
