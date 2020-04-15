@@ -1,14 +1,14 @@
 <h1 align="center">
-    <img alt="Rastreador do COVID-19" title="#delicinha" src="./public/virus.svg" width="250px" />
+    <img alt="Rastreador do COVID-19" title="#delicinha" src="./public/virus.svg" width="150px" height="150px"  />
 </h1>
 
 <h4 align="center">
   🤒 Rastreador d COVID-19 
 </h4>
 <p align="center">
-  <img alt="phone" src="/sket.png">
+  <img alt="phone" src="/sket.png" width="300px" height="300px" >
 
-  <img alt="note" src="/mac.png">
+  <img alt="note" src="/mac.png" width="300px" height="300px" >
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="./public/virus.svg" width="100%">
+  <img alt="Frontend" src="./public/virus.svg" width="150px" height="150px"  >
 </p>
 
 ## 💻 : Tecnologias
