@@ -1,14 +1,14 @@
 <h1 align="center">
-    <img alt="Rastreador do COVID-19" title="#delicinha" src="./public/virus.svg" width="150px" height="150px"  />
+    <img alt="Rastreador do COVID-19" title="#delicinha" src="./public/virus.svg" width="130px" height="130px"  />
 </h1>
 
-<h4 align="center">
-  🤒 Rastreador d COVID-19 
-</h4>
+<h3 align="center">
+  🤒 Rastreador do COVID-19 
+</h3>
 <p align="center">
-  <img alt="phone" src="/sket.png" width="300px" height="300px" >
+  <img alt="phone" src="/sket.png" width="150px" height="300px" >
 
-  <img alt="note" src="/mac.png" width="300px" height="300px" >
+  <img alt="note" src="/mac.png" width="350px" height="270px" >
 </p>
 
 <p align="center">
@@ -19,14 +19,14 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="./public/virus.svg" width="150px" height="150px"  >
+  <img alt="Frontend" src="./public/virus.svg" width="130px" height="130px"  >
 </p>
 
-## 💻 : Tecnologias
+## 💻 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Material UI](https://nodejs.org/en/)
+- [Material-UI](https://material-ui.com/)
 - [React](https://reactjs.org)
 
 ## 📁 Projeto
