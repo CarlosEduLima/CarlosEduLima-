@@ -6,9 +6,9 @@
   🤒 Rastreador do COVID-19 
 </h3>
 <p align="center">
-  <img alt="phone" src="/sket.png" width="150px" height="300px" >
+  <img alt="phone" src="/sket.png" width="190px" height="380px" >
 
-  <img alt="note" src="/mac.png" width="350px" height="270px" >
+  <img alt="note" src="/mac.png" width="500px" height="390px" >
 </p>
 
 <p align="center">
@@ -17,10 +17,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="Frontend" src="./public/virus.svg" width="130px" height="130px"  >
-</p>
 
 ## 💻 Tecnologias
 
